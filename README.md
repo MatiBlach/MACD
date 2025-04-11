@@ -1,6 +1,10 @@
 # MACD Strategy for Stock Trading
 
 This project implements the **MACD (Moving Average Convergence Divergence)** strategy to analyze stock price movements and generate buy and sell signals based on the MACD indicator. The analysis also compares the results of the MACD strategy to a simple "Buy and Forget" strategy. 
+
+
+You can read my report [here](./MACD.pdf) (🇵🇱)
+
 ## Features
 
 - Calculate **MACD** and **Signal** lines from historical stock data.
